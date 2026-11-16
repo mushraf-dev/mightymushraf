@@ -1,23 +1,28 @@
 <h1 align="center">Hi 👋, I'm Shaik Mahammad Mushraf Hussain</h1>
 
 <h3 align="center">
-Java Backend Developer | Spring Boot | REST APIs | MySQL
+Java Full Stack Developer | Spring Boot | Spring Security | REST APIs | MySQL | React.js |
 </h3>
 
 <p align="center">
-I enjoy building scalable backend applications using Java and Spring Boot while continuously improving my software development skills.
+I enjoy building scalable Java Full Stack applications using Java, Spring Boot, React while continuously improving my software development skills.
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science Engineering Student (2023–2026)
-- 🌱 Currently learning **Spring Security, JWT, Microservices**
-- 💻 Interested in Backend Development
-- 🚀 Building Java Spring Boot Applications
-- 📍 Proddatur, Andhra Pradesh
-- 📫 Reach me at **shaikmushraf2111@gmail.com**
+🎓 B.Tech Graduate in Computer Science Engineering (2023–2026)
+
+💻 Interested in Java Full Stack Development
+
+🌱 Currently strengthening my knowledge of Spring Security, JWT and Microservices
+
+🚀 Building web applications using Spring Boot and React
+
+📍 Proddatur, Andhra Pradesh, India
+
+📫 Reach me at shaikmushraf2111@gmail.com
 
 ---
 
@@ -84,6 +89,7 @@ I enjoy building scalable backend applications using Java and Spring Boot while 
 - JWT Authentication
 - MySQL
 - REST APIs
+- React
 
 ---
 
@@ -98,7 +104,7 @@ I enjoy building scalable backend applications using Java and Spring Boot while 
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/shaik-mahammad-mushraf-hussain-470524292)
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
 
